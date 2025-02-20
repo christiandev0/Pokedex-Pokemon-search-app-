@@ -1,2 +1,8 @@
-# Pokédex-Pokémon-search-app-
-🏆 Pokédex Search App Un'app web in React che permette di cercare Pokémon tramite l'API di PokéAPI, visualizzarne le informazioni e salvarli nel proprio Pokédex personale. 🔹 Funzionalità: ✅ Ricerca Pokémon tramite nome ✅ Visualizzazione dettagli (immagine, tipo, altezza, peso) ✅ Salvataggio dei Pokémon nel Pokédex usando LocalStorage
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
